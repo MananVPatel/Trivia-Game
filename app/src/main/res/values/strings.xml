@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Patel Geography Trivia</string>
+    <string name="states">Pennsylvania</string>
+    <string name="cities">Pittsburgh</string>
+    <string name="text">
+
+        There are 195 countries in the world today. \n\n This total comprises 193 countries
+        that are member states of the United Nations and 2 countries that are non-member observer states:
+        \nthe Holy See and the State of Palestine.
+        \n\nNot in the list\n\n
+        Not included in this total count of 195 countries are:\n
+
+        Taiwan - the United Nations considers it represented by the People\'s Republic of China \n
+        The Cook Islands and Niue, both states in free association with New Zealand which are members of several UN specialized agencies and have been recognized "full treaty-making capacity", but are neither member states nor non-member observer states.
+        \nDependencies (or dependent territories, dependent areas, dependencies) and Areas of Special Sovereignty (autonomous territories)
+        \nOther countries recognized by the United Nations as not being self-governing
+        \n\n
+        Where are they located? \n \n
+        54 countries are in Africa
+        \n48 in Asia
+        \n44 in Europe
+        \n33 in Latin America and the Caribbean
+        \n14 in Oceania
+        \n2 in Northern America</string>
+
+    <string name="state1">The United States of America is a federal republic consisting of 50 states
+        (four of which use the term commonwealth rather than state in their full, legal state name),
+        a federal district (where the nation\'s seat of government—Washington, D.C), five major territories,
+        and various possessions.\nThe 48 contiguous states and Washington, D.C., are in central
+        North America between Canada and Mexico. The state of Alaska is in the northwestern part of North America
+        (also bordering Canada) and the state of Hawaii is an archipelago in the mid-Pacific.\n</string>
+    <string name="question">What is the nickname for the state of Pennsylvania?</string>
+    <string name="ci">Correct or \nIncorrect</string>
+    <string name="t">TRIES: \n</string>
+
+
+</resources>
